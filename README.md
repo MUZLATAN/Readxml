@@ -1,6 +1,6 @@
-# 使用rapidxml解析,使用folly::dynamic序列化输出json
-
-# 使用rapidxml解析,使用folly dynamic序列化输出json
+ # 使用rapidxml解析,使用folly dynamic序列化输出json
+ * 2019.12.23 created by zlatan 
+ 
 > Folly是Facebook的一个重型库, rapidxml是一个轻量级的效率极高的xml解析器
 
 __目的:__ 将如下的xml中部分字段写入到json文件
